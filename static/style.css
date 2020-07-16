@@ -1,0 +1,16 @@
+#list{
+    list-style: none;
+    margin: 10px 30px;
+    display: inline-block;
+    font-size: 20px;
+    padding: 20px 20px;
+    color: rgb(8, 8, 8);
+    transition: .5s;
+}
+
+#list:hover {
+    color: #dacddd;
+    border: 1px solid #e0d6e2;
+    transition: .5s;
+
+}
